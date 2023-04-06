@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chess-game-and-puzzles/static/css/main.8aba0374.css",
+    "main.js": "/chess-game-and-puzzles/static/js/main.a1489429.js",
+    "static/media/menuimg.jpg": "/chess-game-and-puzzles/static/media/menuimg.dd42da6bc04cf3090e88.jpg",
+    "index.html": "/chess-game-and-puzzles/index.html",
+    "main.8aba0374.css.map": "/chess-game-and-puzzles/static/css/main.8aba0374.css.map",
+    "main.a1489429.js.map": "/chess-game-and-puzzles/static/js/main.a1489429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aba0374.css",
+    "static/js/main.a1489429.js"
+  ]
+}
